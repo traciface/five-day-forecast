@@ -12,3 +12,6 @@ The UV index is color coded so you can tell at a glance if the colors are
 green= favorable, 
 yellow= moderate, 
 red =severe
+
+
+visit here:https://traciface.github.io/five-day-forecast/
